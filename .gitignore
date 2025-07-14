@@ -1,0 +1,23 @@
+## Ignore Visual Studio build files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.dbmdl
+*.bak
+*.tmp
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.psess
+*.vspx
+*.vspscc
+*.vssscc
+*.csproj.user
+TestResults/
